@@ -9,9 +9,3 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 8080
-
-agit clone https://github.com/LazyVim/starter ~/.config/nvimpple
-    apple
-  banana
-apple
-  banana
